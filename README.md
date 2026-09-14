@@ -1,11 +1,7 @@
 ## `print('hello world i'm claire!')`
 - **sophmore @ cornell university, cs major**
-- **interested in developing tech for social impact**
-
-**tech stack**
-- languages: Java, Python, Ocaml, C#
-- data science: Pandas, NumPy, scikit-learn
-- web dev: HTML, CSS, JS
+- **interested in developing tech for social impact & video games**
+- languages: Java, Python, Ocaml, C#, C/C++
 
 **how to reach me**
 - email cqc6@cornell.edu
