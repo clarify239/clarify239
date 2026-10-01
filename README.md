@@ -1,5 +1,5 @@
 ## `print('hello world i'm claire!')`
-- **sophmore @ cornell university, cs major**
+- **student @ cornell university, cs major**
 - **interested in developing tech for social impact & video games**
 - languages: Java, Python, Ocaml, C#, C/C++
 
