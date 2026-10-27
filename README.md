@@ -7,7 +7,7 @@
 - email cqc6@cornell.edu
 - linkedin: https://www.linkedin.com/in/claireqcheng/
 
-interests: video games, vr, crochet, baking, making icecream, cats
+interests: video games, vr, crochet, fishing, baking, cats
 
 <!--
 **clarify239/clarify239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
